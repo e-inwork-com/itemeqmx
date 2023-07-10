@@ -1,3 +1,3 @@
 # [e-inwork.com](https://e-inwork.com)
 
-# TODO: Item EQMX - Readme Desciption
+# TODO: Item EQMX - Readme Description
