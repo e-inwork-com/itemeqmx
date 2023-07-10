@@ -5,7 +5,7 @@ from django.conf import settings
 
 import paho.mqtt.client as mqtt
 
-from itemmqmx.celery import app
+from itemeqmx.celery import app
 from items.models import ItemSubscribe, Item
 
 
